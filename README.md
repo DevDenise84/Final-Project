@@ -32,5 +32,18 @@ Action Items:
 2. Improve communication for better teamwork and sharing information.
 3. Keep following agile principles like being flexible, open, and checking progress regularly.
 
+### Esssential Questions
 
-The team agreed on what to do next to improve and build on their success. By learning from their experiences, they are ready to face new challenges and keep delivering good results in the next sprints.
+1. Interpreting User Needs and Implementing them into a Program:
+To understand what users want in a program, we listen to their needs and create simple descriptions called user stories. These stories help us know what features to build and prioritize them based on what users value.
+
+2. Approach to Developing Programs and Incorporating Agile Processes:
+When developing programs, I work in small steps and collaborate with others to make improvements continuously. In the future, I plan to use agile methods like Scrum and Kanban to be more productive, flexible, and customer-focused. Agile processes help us focus on user needs, adapt to changes quickly, and deliver software in small, useful parts.
+
+3. Qualities of a Good Team Member in Software Development:
+Good team members in software development are:
+- Good Communicators: They share ideas and work well with others.
+- Team Players: They collaborate with teammates and support team goals.
+- Problem-Solvers: They can find and fix issues efficiently.
+- Flexible: They are open to change and learning new things.
+- Skilled: They have a good understanding of programming and technology tools.
